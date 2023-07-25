@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Joshi</h1>
 <h3 align="center">Professional IT Trainer @Felix-ITs | @Felix-Techlabs | MERN Stack Developer</h3>
-![profile](https://github.com/Neeraj-Joshi4454/Neeraj-Joshi4454/assets/84903276/a233b78a-e1e5-4b60-acc8-f720e038a7d8)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-joshi4454" alt="neeraj-joshi4454" /></a> </p>
 
@@ -11,6 +10,8 @@
 - 💬 Ask me about **JS,React, Node, Python, Express, MongoDB, Django**
 
 - 📫 How to reach me **neerajmjoshi1@gmail.com**
+
+- 📄 Know about my experiences [Hi there! I'm a full stack developer and IT trainer with expertise in MERN stack development hands on experience on REACT.JS NODE.JS, EXPRESS.JS, as well as experience working with databases like MongoDB and SQL. I'm also proficient in Python development and have experience working with popular frameworks like Django. I'm a quick learner and highly focused on my work, with a passion for creating high-quality software that delivers real value to users.](Hi there! I'm a full stack developer and IT trainer with expertise in MERN stack development hands on experience on REACT.JS NODE.JS, EXPRESS.JS, as well as experience working with databases like MongoDB and SQL. I'm also proficient in Python development and have experience working with popular frameworks like Django. I'm a quick learner and highly focused on my work, with a passion for creating high-quality software that delivers real value to users.)
 
 - ⚡ Fun fact **There is no dead end for programming :)**
 
