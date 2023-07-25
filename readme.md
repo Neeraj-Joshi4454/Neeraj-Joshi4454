@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Neeraj Joshi</h1>
+
+<h![profile](https://github.com/Neeraj-Joshi4454/Neeraj-Joshi4454/assets/84903276/8fa90405-5358-46e3-8081-ac7b16aed161)
+1 align="center">Hi 👋, I'm Neeraj Joshi</h1>
 <h3 align="center">Professional IT Trainer @Felix-ITs | @Felix-Techlabs | MERN Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-joshi4454" alt="neeraj-joshi4454" /></a> </p>
