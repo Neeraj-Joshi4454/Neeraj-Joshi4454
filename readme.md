@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **neerajmjoshi1@gmail.com**
 
-- 📄 Know about my experiences [Hi there! I'm a full stack developer and IT trainer with expertise in MERN stack development hands on experience on REACT.JS NODE.JS, EXPRESS.JS, as well as experience working with databases like MongoDB and SQL. I'm also proficient in Python development and have experience working with popular frameworks like Django. I'm a quick learner and highly focused on my work, with a passion for creating high-quality software that delivers real value to users.](Hi there! I'm a full stack developer and IT trainer with expertise in MERN stack development hands on experience on REACT.JS NODE.JS, EXPRESS.JS, as well as experience working with databases like MongoDB and SQL. I'm also proficient in Python development and have experience working with popular frameworks like Django. I'm a quick learner and highly focused on my work, with a passion for creating high-quality software that delivers real value to users.)
-
 - ⚡ Fun fact **There is no dead end for programming :)**
 
 <h3 align="left">Connect with me:</h3>
